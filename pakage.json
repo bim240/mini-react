@@ -1,0 +1,10 @@
+{
+  "name": "mini-react",
+  "version": "1.0.0",
+  "description": "A mini-react alternative to React",
+  "license": "ALTCAMPUS",
+  "repository": "bim240/mini-react",
+  "author": "bimlendu",
+  "main": "mini-react.js",
+  "keywords": ["react"]
+}
